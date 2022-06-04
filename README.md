@@ -7,6 +7,8 @@ __top 명령어란?__
 -___아래 사진은 top명령어를 실행했을 때 이다.___-
 <img src="https://user-images.githubusercontent.com/97230837/171996611-62ba43a0-4750-46fe-a795-a93a519e5bdc.png" width = "700" height="400">
 
+[사진 출처](https://www.cubrid.com/tutorial/3794195)
+
 1. 첫번째 줄의 정보
 
 __Load Average__
@@ -102,6 +104,8 @@ ps 명령어는 현재 돌아가고 있는 프로세스를 확인할 수 있는 
 
 <img src="https://user-images.githubusercontent.com/97230837/171998196-5198060f-eb3b-4abb-aaed-9467140ccd93.PNG" width = "700" height="400">
 
+[사진 출처](https://newstars.cloud/468)
+
 1. 세부 정보 표시
 
 - 위 사진에 첫번째 줄이 세부 정보란이다.
@@ -149,6 +153,17 @@ ex)ps -fp 1219
                  
 -p 옵션으로 PID가 1219인 프로세스 정보를 출력
                
-합치면 PID가 1219인 프로세스 정보를 full format으로 출력해줘
+합치면 PID가 1219인 프로세스 정보를 full format으로 출력해주는 옵션이 된다.
 ```
 
+##  ___jobs 명령어___
+
+__jobs 명령어란?__
+
+jobs 명령어는 백그라운드에 실행되고 있는 프로세스나 중지된 프로세스 실행이 완료된 프로세스의 목록을 출력해줍니다.
+
+-___아래 사진은 jobs명령어를 실행했을 때 화면이다.___-
+
+<img src = "https://user-images.githubusercontent.com/97230837/171999868-7e30d643-2d14-4b47-89a2-5302199f6cc3.PNG" width = "700" height="400">
+
+[사진 출처](https://jhnyang.tistory.com/395)
