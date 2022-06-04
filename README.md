@@ -302,4 +302,5 @@ vim test.c
 
 입력모드로 들어가서 <ctrl + R>한 뒤 a를 누르면
 
-hello world가 vim 에디터에 바로써짐
+hello world가 vim 에디터에 바로써지게 된다.
+```
